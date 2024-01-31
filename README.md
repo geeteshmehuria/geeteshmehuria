@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=geeteshmehuria&label=Profile%20views&color=0e75b6&style=flat" alt="geeteshmehuria"/>
 </p>
 
+![logo](https://github.com/geeteshmehuria/c-sharp-samrat-2345/assets/70647591/1854e259-4daf-42b1-b12a-3dcfe97a2fbd)
 <h1 align="center">Hi 👋, I'm Geetesh Mehuria</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 #### I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
