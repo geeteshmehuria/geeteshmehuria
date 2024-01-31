@@ -10,9 +10,9 @@
 <br/>
 <img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" >
 
-- 🔭 This is my Masai 5th unit project based on React: [Samrat Hospital](https://c-sharp-samrat.vercel.app/)
-- 🔭 This is my Masai 4th unit project based on HTML+CSS+JavaScript: [Travelo](https://byte-harmony-2098-sandy.vercel.app/)
-- 🔭 This is my Masai 3rd unit project based on HTML/CSS/Sass: [Blog Details Page and Contacts Page](https://stirring-croquembouche-c5740d.netlify.app/)
+- 🔭 My Masai 5th unit project based on React: [Samrat Hospital](https://c-sharp-samrat.vercel.app/)
+- 🔭 My Masai 4th unit project based on HTML+CSS+JavaScript: [Travelo](https://byte-harmony-2098-sandy.vercel.app/)
+- 🔭 My Masai 3rd unit project based on HTML/CSS/Sass: [Blog Details Page and Contacts Page](https://stirring-croquembouche-c5740d.netlify.app/)
   
 - 🌱 I’m currently learning **Data Structures** and **MERN Stack**.
 - 💬 Ask me about anything, I am happy to help;
