@@ -17,6 +17,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: **geeteshmaihuria@gmail.com**
 
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codepen.io/geetesh-maihuria" target="_blank">
@@ -46,9 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-
 <br/>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeteshmehuria&show_icons=true&locale=en&layout=compact" alt="geeteshmehuria" />
 </p>
@@ -60,4 +59,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeteshmehuria&" alt="geeteshmehuria" />
 </p
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p
+
