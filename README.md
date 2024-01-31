@@ -31,7 +31,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -58,14 +57,13 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeteshmehuria&" alt="geeteshmehuria" />
-</p>
+</p
+
+  
 <p align="center">
-## ❤ Views and Followers
-  <br/>
+## ❤ Views
   <img src="https://komarev.com/ghpvc/?username=geeteshmehuria&label=Profile%20views&color=0e75b6&style=flat" alt="geeteshmehuria"/>
 </p>
-
-<a href="https://github.com/geeteshmehuria?tab=followers"><img src="https://img.shields.io/github/followers/geeteshmehuri?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
