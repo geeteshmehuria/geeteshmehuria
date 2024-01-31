@@ -1,12 +1,13 @@
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=geeteshmehuria&label=Profile%20views&color=0e75b6&style=flat" alt="geeteshmehuria"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Geetesh Mehuria</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 #### I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
-
-
+<br/>
+<br/>
+<img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" >
 
 - 🔭 This is my Masai 5th unit project based on React: [Samrat Hospital](https://c-sharp-samrat.vercel.app/)
 - 🔭 This is my Masai 4th unit project based on HTML+CSS+JavaScript: [Travelo](https://byte-harmony-2098-sandy.vercel.app/)
@@ -58,12 +59,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeteshmehuria&" alt="geeteshmehuria" />
 </p
-
-  
-<p align="center">
-## ❤ Views
-  <img src="https://komarev.com/ghpvc/?username=geeteshmehuria&label=Profile%20views&color=0e75b6&style=flat" alt="geeteshmehuria"/>
-</p>
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
