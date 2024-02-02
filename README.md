@@ -53,14 +53,14 @@
 </p>
 <br/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeteshmehuria&show_icons=true&locale=en&layout=compact" alt="geeteshmehuria" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geeteshmehuria&show_icons=true&locale=en&layout=compact&theme=radical" alt="geeteshmehuria" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geeteshmehuria&show_icons=true&locale=en" alt="geeteshmehuria" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geeteshmehuria&show_icons=true&theme=radical" alt="geeteshmehuria" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeteshmehuria&" alt="geeteshmehuria" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geeteshmehuria&theme=transparent" alt="geeteshmehuria" />
 </p
 
 <p align="center">
