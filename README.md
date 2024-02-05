@@ -23,7 +23,7 @@
 
 <br/>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" display="flex" gap="16px">
   <a href="https://codepen.io/geetesh-maihuria" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="geetesh-maihuria" height="30" width="40" />
   </a>
