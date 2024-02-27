@@ -19,7 +19,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: **geeteshmaihuria@gmail.com**
 - 👨‍💻 All of my projects are available at [Portfolio](https://geeteshmehuria.github.io/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-vKUTaZjPaLq0RAfeGJbrUFS1TvIXdH_?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1QQAy01QVWhkARc8hVdx_uheSQrVdatp7/view?usp=sharing)
 
 <br/>
 <h3 align="center">Connect with me:</h3>
