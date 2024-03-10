@@ -6,11 +6,12 @@
 <h1 align="center">Hi 👋, I'm Geetesh Mehuria</h1>
 <h3 align="center">Passionate Aspiring MERN Developer</h3>
 
-#### I’m a Aspiring MERN Developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
+#### I’m an Aspiring MERN Developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 <br/>
 <br/>
 <img align="right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif" >
 
+- 🔭 My Masai 6th unit project based on React: [CodeFlow](https://codeflow-cdf.netlify.app/)
 - 🔭 My Masai 5th unit project based on React: [Samrat Hospital](https://c-sharp-samrat.vercel.app/)
 - 🔭 My Masai 4th unit project based on HTML+CSS+JavaScript: [Travelo](https://byte-harmony-2098-sandy.vercel.app/)
 - 🔭 My Masai 3rd unit project based on HTML/CSS/Sass: [Blog Details Page and Contacts Page](https://stirring-croquembouche-c5740d.netlify.app/)
