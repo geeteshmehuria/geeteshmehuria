@@ -1,6 +1,6 @@
 # Hi, I'm Geetesh Mehuria 👋
 
-### Full Stack Developer · Svelte + FastAPI · AI-Powered Applications
+### Full Stack Developer · Python + FastAPI · PostgreSQL · LLM Features in Production
 
 I build modern web applications, SaaS platforms, and AI-powered developer tools — across the frontend, backend, and database layers.
 
@@ -13,12 +13,13 @@ I build modern web applications, SaaS platforms, and AI-powered developer tools 
 
 ## About Me
 
-I'm a **Full Stack Developer with 2+ years of experience** building modern web applications, SaaS features, and AI-powered tools. I work end to end — from designing clean, responsive interfaces to building REST APIs, authentication flows, and database-driven workflows.
+I'm a **Full Stack Developer with 2.5 years** building a B2B SaaS product (Perseptiv, ~500 users) on **Python/FastAPI, PostgreSQL and SvelteKit**.
 
-- 🧩 Core stack: **Svelte / SvelteKit**, **Python / FastAPI**, **PostgreSQL**
-- 🤖 I integrate AI (Gemini, OpenAI, Claude) into real products with validation, caching, and honest error handling
-- 🏗️ Currently building **AlgoLens AI**, a full-stack AI-powered DSA learning platform
-- 📍 Based in India · open to collaboration
+- 🏗️ Led a 2-person migration from Wappler/Node.js to **FastAPI + SvelteKit**: 240 pages on 889 API endpoints in 8 months
+- 🤖 Built LLM features used by clients: presentations in under 5 minutes, RFP evidence scoring in under 1 minute
+- ⚡ Took a production endpoint from a **60s timeout to under 1 second**
+- 🍜 Ship small real products on the side, including an ordering app a real food stall runs on
+- 📍 Gurugram, India · open to remote and Delhi NCR / Bangalore / Pune / Hyderabad
 
 ---
 
@@ -29,6 +30,7 @@ I'm a **Full Stack Developer with 2+ years of experience** building modern web a
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -41,19 +43,22 @@ I'm a **Full Stack Developer with 2+ years of experience** building modern web a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **AI & Integrations**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-444444?style=flat)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-444444?style=flat)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat)
+![pgvector](https://img.shields.io/badge/pgvector_(RAG)-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**
 
@@ -66,8 +71,35 @@ I'm a **Full Stack Developer with 2+ years of experience** building modern web a
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
-
 ## Featured Projects
+
+### 🍜 Mr. Momo — Live Ordering App for a Real Food Stall
+A pickup-ordering web + Android app **used by a real momo stall and its customers**.
+
+- Email OTP / Google login, live order status over WebSockets, "ready" beep and email
+- Real-time owner dashboard: order queue, menu, stock, store open/pause
+- Android app via Capacitor; feature-based FastAPI backend with 154 Pytest tests
+
+**Stack:** React · Vite · Tailwind CSS · FastAPI · SQLAlchemy · PostgreSQL · WebSockets · Capacitor
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/geeteshmehuria/ro-yan-brews)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://ro-yan-brews.vercel.app)
+
+---
+
+### 🧠 DevReview AI — AI Code Review + RAG Repo Chat
+AI reviews of GitHub repos, pull requests and snippets, plus a chat that answers questions about your own codebase.
+
+- Security, performance and code-quality findings with fixes; PR risk score and merge verdict
+- **RAG chat:** code chunking, embeddings in pgvector, retrieval, and an eval script
+- GitHub OAuth; Gemini-first model layer with OpenAI and Claude fallbacks; 97 backend tests
+
+**Stack:** Next.js 15 · React 19 · TypeScript · FastAPI · PostgreSQL (Neon) + pgvector · Redis · Docker
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/geeteshmehuria/devreview-ai)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel&logoColor=white)](https://devreview-ai-mu.vercel.app)
+
+---
 
 ### 🔬 AlgoLens AI — AI-Powered DSA Learning Platform
 A full-stack platform that unifies DSA learning, practice, AI feedback, and spaced-repetition revision into one interface.
@@ -85,15 +117,6 @@ A full-stack platform that unifies DSA learning, practice, AI feedback, and spac
 
 ---
 
-### 🧠 AI Code Review Tool — Developer Productivity
-An AI-powered code review tool that returns structured feedback on bugs, code quality, security concerns, and refactoring suggestions.
-
-**Stack:** SvelteKit · FastAPI · Python · Gemini API · Tailwind CSS · shadcn-svelte
-
-![Status](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat)
-
----
-
 ### 🏥 Samrat Hospital Clone — Healthcare Web App
 A responsive healthcare website with appointment booking, authentication, and service information.
 
@@ -104,8 +127,8 @@ A responsive healthcare website with appointment booking, authentication, and se
 
 ---
 
-### 🍳 Chefbot — AI Recipe Generator
-A full-stack recipe generator that creates recipes and images from ingredients using AI APIs.
+### 🍳 Chefbot — AI Recipe Generator (3-person team project)
+A team-built full-stack recipe generator that creates recipes and images from ingredients using AI APIs.
 
 **Stack:** React · TypeScript · Tailwind CSS · Node.js · Express.js · MongoDB · OpenAI · DeepAI
 
@@ -116,24 +139,24 @@ A full-stack recipe generator that creates recipes and images from ingredients u
 
 ## Experience
 
-### Full Stack Developer — Slashash
-**March 2024 – Present**
+### Full Stack Developer — Slashash Tech LLP
+**Mar 2024 – Sep 2026 · Jodhpur, India**
 
-Building SaaS applications with a Svelte/SvelteKit frontend, Python/FastAPI backend, and PostgreSQL.
+Worked on **Perseptiv**, a B2B retirement-plan advisory SaaS (~500 users).
 
-- Built and improved features for the **Perseptiv** SaaS platform
-- Designed and integrated REST APIs over a PostgreSQL data layer
-- Implemented authentication and protected-page flows, improving UI/UX
-- Debugged production issues and modernized complex, database-driven workflows
+- Led a 2-person migration from Wappler/Node.js/Bootstrap to **FastAPI + SvelteKit** in 8 months: ~340 legacy views → 240 SvelteKit pages on 889 FastAPI endpoints (1,600+ commits)
+- Built **Content Studio**, an AI tool that generates client presentations in under 5 minutes, and **Evidence Marker Analysis**, a two-pass LLM pipeline that scores vendor RFP responses in under 1 minute
+- Fixed a production endpoint that **timed out at 60s → under 1 second** (EXPLAIN ANALYZE, covering indexes, CTE rewrite)
+- Built a dev-vs-prod schema diff pipeline used before every release; set up the test suite from scratch (~2,700 Pytest tests, AI-assisted)
+- Fixed IDOR, JWT, SSRF and privilege-escalation issues flagged by Aikido scanning
 
 ---
 
 ## Current Focus
 
-- 🔭 Building **AlgoLens AI** and shipping AI-powered learning features
-- 🤖 Improving safe, validated AI integrations in production apps
-- 📈 Deepening **DSA and system design** knowledge
-- ⚡ Building scalable **FastAPI + SvelteKit** applications
+- 🔎 Deepening RAG and agentic workflows (building on DevReview AI's repo chat)
+- ⚡ Production-grade FastAPI + PostgreSQL: performance, background jobs, testing
+- 📈 DSA and system design
 
 ---
 
